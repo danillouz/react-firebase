@@ -1,0 +1,30 @@
+{
+  "name": "react-firebase",
+  "version": "1.0.0",
+  "description": "Playing around with Firebase",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danillouz/react-firebase.git"
+  },
+  "keywords": [],
+  "author": "Daniël Illouz <daniel.illouz@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danillouz/react-firebase/issues"
+  },
+  "homepage": "https://github.com/danillouz/react-firebase#readme",
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
